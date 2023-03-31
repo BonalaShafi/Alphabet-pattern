@@ -1,7 +1,5 @@
-package poornaapp;
 
-import java.util.Scanner;
-public class Blood{
+public class Pattern{
 	
 public static void main(String[]args) {
 
